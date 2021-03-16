@@ -5,12 +5,14 @@
 ### Package Structure
 
 **base package : com.cg.apps.hotelbooking**
-                               |_hotelms
-                                    |_ entites, dao, services etc.
-                               |_roomms
-                                    |_ entites, dao, services etc.
-                               |_guestms
-                                    |_ entites, dao, services etc.
+
+- com.cg.apps.hotelbooking
+                    - hotelms
+                      - entites, dao, services etc
+                    - roomms
+                      - entites, dao, services etc
+                    - guestms
+                      - entites, dao, services etc
   
 
 ### Tasks
